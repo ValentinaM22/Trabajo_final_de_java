@@ -10,6 +10,7 @@ public class DisenoModelo extends PersonaModelo{
     private int numero_proyecto;
     private int horas;
 
+    //valentina morales
     public DisenoModelo(int identificacion, String nombre, String apellido,
             String direccion, String telefono,String fecha,String sexo,
             String nivel,int numero_proyecto,int horas) {
