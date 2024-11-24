@@ -3,9 +3,9 @@ package com.java.projecto.modelos;
 
 
 public class ClienteModelo extends PersonaModelo{
- private String tipo_cliente;
- private int cantidad;
- private String fecha; 
+    private String tipo_cliente;
+    private int cantidad;
+    private String fecha; 
  
  public ClienteModelo(int identificacion, String nombre, String apellido,
          String direccion, String telefono,String tipo_cliente, 
